@@ -93,7 +93,7 @@ FV 是 Future Value 的缩写。它适合用于基于固定利率和等额分期
 
 ### 5.1 ImportXML
 
-Google Spreadsheet 里内建了一个 `ImportXML()` 函数，它可以让你获取任意网页里的任意数据。
+Google Spreadsheets 里内建了一个 `ImportXML()` 函数，它可以让你获取任意网页里的任意数据。
 
 比如，如果我们想要获取 Coinmarketcap 上的比特币实时价格数据，那么，我们用浏览器打开 https://coinmarketcap.com/currencies/bitcoin/markets/ 就可以看到。如果我们用鼠标右键点击价格数据之后，选择 `Inspect` 的话，看到的是这样的：
 

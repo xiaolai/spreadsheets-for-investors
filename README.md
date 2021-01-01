@@ -147,10 +147,6 @@ Google Spreadsheets 里内建了一个 `ImportXML()` 函数，它可以让你获
 
 > `=value(ImportJSON("https://big.one/api/v3/asset_pairs/XIN-USDT/ticker", "/data/close","noHeaders"))`
 
-
-
----
-
 ## 6. 示例表格
 
 以上教程中的所有公式和数据，都可以在保存于 Google Spreadsheets 上的《[电子表格简明进阶教程示例表格](https://docs.google.com/spreadsheets/d/1WLWukDdHPMt3Zx19bROMAJkM8PVS46TKiYFwyk7vC1Y/edit#gid=0)》内看到。

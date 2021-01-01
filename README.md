@@ -14,6 +14,10 @@ Github 的 markdown 不支持 LaTeX 数学公式，所以，在 GitHub 上大家
 
 另外，也可以直接查看 [README.pdf](README.pdf) 查看正确显示的内容。
 
+> 注：当前这个教程中使用的是 [Google Spreadsheets](https://docs.google.com/spreadsheets/)，MAC 上的 Numbers 引入外部数据很受局限，而 Windows 上 Microsoft Office 套件中的 Excel 虽然也有[一整套的外部数据导入方式](https://support.microsoft.com/en-us/office/import-data-from-external-data-sources-power-query-be4330b3-5356-486c-a168-b68e9e616f5a)，但相对更加麻烦（还得学它那个比较令人讨厌的 VBA）……
+
+
+
 ## 1. 简单幂运算
 
 做投资的人最需要幂运算 —— 当然，也是因为加减乘除反正谁都会。

@@ -55,7 +55,7 @@ FV 是 Future Value 的缩写。它适合用于基于固定利率和等额分期
 > * pv，现值，也就是初期投入的现金
 > * type，计算期初值，此处设置为 0，计算期末值，此处设置为 1
 
-![fv](images/fv.png)
+![fv](images/FV.png)
 
 **注意**：
 

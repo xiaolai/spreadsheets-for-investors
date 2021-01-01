@@ -10,7 +10,7 @@
 
 Github 的 markdown 不支持 LaTeX 数学公式，所以，在 GitHub 上大家会看到诸如 `$2^2 = 4$` 这样的 inline LaTeX。如果你使用类似 [Typora](https://typora.io/) 这样的 Markdown 编辑器打开的话就可以看到正确的数学表达式。当然，在 Typora 中也需要设置，勾选`Inline Math (e.g: $\LaTeX$)`：
 
-![Typora Settings](images/Typora Settings.png)
+![Typora Settings](images/typora-settings.png)
 
 ## 1. 简单幂运算
 

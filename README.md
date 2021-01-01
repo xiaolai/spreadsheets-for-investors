@@ -12,6 +12,8 @@ Github 的 markdown 不支持 LaTeX 数学公式，所以，在 GitHub 上大家
 
 ![Typora Settings](images/typora-settings.png)
 
+另外，也可以直接查看 [README.pdf](README.pdf) 查看正确显示的内容。
+
 ## 1. 简单幂运算
 
 做投资的人最需要幂运算 —— 当然，也是因为加减乘除反正谁都会。

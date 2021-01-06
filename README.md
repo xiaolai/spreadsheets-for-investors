@@ -89,6 +89,14 @@ FV 是 Future Value 的缩写。它适合用于基于固定利率和等额分期
 
 如此一通操作之后，总收益率是 $77.98\%$。
 
+> 另，经 [@luownpeng](https://github.com/luowenpeng) 提醒，使用 `XIRR` 函数有一个注意事项：
+>
+> > The series of values must contain at least one positive and one negative value.
+> >
+> > （现金流数据）要包含至少一个正值以及一个负值……
+
+
+
 ## 5. 引入外部数据
 
 有时我们希望电子表格中的某个数据可以实时引用网络上的外部数据。比如，你可能想要在[BigONE](https://big.one) 这个交易所上正在交易的 XIN 的实时价格……
@@ -132,6 +140,8 @@ Google Spreadsheets 里内建了一个 `ImportXML()` 函数，它可以让你获
 ![code-beautify](images/code-beautify.png)
 
 —— 哦！原来可以调取 `/data/close` 里的数据就可以了……
+
+> 另，经 [@HarryYC](https://github.com/HarryYC) 提醒，还有个很方便的 Google Chrome 插件可以用来查看 json 数据，[jsonView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc/related?hl=en)。
 
 对于 json 数据，有个外部公式，叫做 `ImportJSON`，在电子表格的单元格里，它是这么写的：
 

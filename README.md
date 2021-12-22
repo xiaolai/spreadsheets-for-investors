@@ -149,8 +149,8 @@ Google Spreadsheets 里内建了一个 `ImportXML()` 函数，它可以让你获
 
 不过，现在还不能显示正确，因为 ImportJSON 是个外部工具（[你可以在 Github 上查看它的仓库](https://github.com/bradjasper/ImportJSON)），所以你需要做些额外的设置：
 
-> 1. 点击 `Tools` 菜单，选择 `Script Editor`；
-> 2. 点击 `Create script for Spreadsheet`；
+> 1. 点击 `Extensions` 菜单，选择 `Apps Script`；
+> 2. 点击 `Files`右边的加号，点击`Script`；
 > 3. 删除掉编辑器里的代码，替换成[这个脚本的代码](https://raw.githubusercontent.com/bradjasper/ImportJSON/master/ImportJSON.gs)；
 > 4. 将脚本名称更换为 `ImportJSON.gs`，并点击保存按钮；
 > 5. 再返回电子表格之后，即可在任意单元格里使用 `ImportJSON()` 函数了……
